@@ -1,0 +1,188 @@
+
+
+	  .header1{
+		text-align: center;
+		
+	  }
+	  p{
+		color: white;
+	  }
+
+	  .table-info {
+		text-align: center;
+		color: rgb(10, 61, 109);
+	  }
+
+	  .header1_h1{
+		color: rgb(10, 61, 109);
+		font-size: 17.5px;
+		text-align: center;
+		padding-top: 0.5%;
+		font-weight: bold;
+		margin-left: 2%;
+		margin-right: 2%;
+	  }
+
+	  .table-caption{
+		font-size: 18px;
+		color: rgb(216, 49, 43);
+	  }
+
+	  .col-class{
+		background: rgb(10, 61, 109);
+		
+	  }
+
+		aside{
+			color: rgb(216, 49, 43);
+		}
+
+		td{
+			font-size: 18px;
+			text-align: center;
+		}
+
+		.first-div{
+			margin-left: 5%;
+			margin-right: 5%;
+			padding-top: 1%;
+			padding-bottom: 1%;
+			line-height: 1.5em;
+		}
+		
+		.second-div{
+			margin-left: 5%;
+			margin-right: 5%;
+			padding-top: 1%;
+			padding-bottom: 1%;
+		}
+
+		.th-class{
+			color: white;
+		}
+
+		th{
+			font-size: 18px;
+		}
+
+	  .main-table{
+		margin-left: auto;
+		margin-right: auto;
+		width: 600px;
+		height: 200px;
+	  }
+
+	  table{
+		border-style: solid;
+
+	  }
+
+	  .nav-class {
+		background: rgb(25, 113, 139);
+		text-align: center;
+		margin-left: 2%;
+		margin-right: 2%;
+	  }
+
+		p{
+			color: rgba(20, 18, 18, 0.808);
+		}
+
+		.section1-class{
+			background: rgb(25, 113, 139);
+		}
+
+    .section1-ul-class{
+			padding-top: 1%;
+			padding-bottom: 1%;
+			padding-right: 1%;
+			line-height: 1.5em;
+		}
+
+		hr{
+			margin-right: 2%;
+		margin-left: 2%;		
+		}
+
+	  .nav-class2 {
+		padding-top: 1%;
+		padding-bottom: 1%;
+	  }
+
+     a{
+		color: white;
+	 }
+
+	 li{
+		color: white;
+	 }
+
+	 .li-class{
+		color: rgba(20, 18, 18, 0.808);
+	 }
+
+   p, ul, li {
+		text-align:Justify; 
+   }
+
+	  .main-body {
+		width: 100%;
+	  }
+  body
+     {
+	   background-color: white;
+		 
+	 }
+
+	 .site-nav{
+		color: white;
+		padding-top: 2%;
+		margin-left: 1%;
+	 }
+
+	 .about-div{
+		display: flex;
+		flex-direction: row;
+		margin-right: 5%;
+		margin-left: 5%;
+	 }
+
+	 .img-div{
+		flex: 1;
+		margin-left: 2%;
+	 }
+
+	 .img-class{
+		width: 100%;
+		border-radius: 2%;
+	 }
+
+	 .profile-div{
+		flex: 2;
+		margin-left: 5%;
+		margin-right: 5%;
+		align-items: flex-start;
+		
+	 }
+
+	 .profile-h1 {
+		margin-left: 8%;
+		color: rgb(10, 61, 109);
+	 }
+
+	 .faq-class{
+		margin-left: 5%;
+		margin-right: 5%;
+	 }
+
+	 .footer-class{
+		height: 30px;
+		background: rgb(25, 113, 139);
+		color: white;
+		text-align: center;
+		padding-top: 1%;
+		padding-bottom: 1%;
+		margin-left: 2%;
+		margin-right: 2%;
+	 }
+
